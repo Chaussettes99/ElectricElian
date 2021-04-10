@@ -1,4 +1,8 @@
 A basic yet readable Elian truetype font. Initial design for characters are by Koumakan for their [Dwarf Fortress tileset](http://www.bay12forums.com/smf/index.php?topic=169671.0). I simply used [FontForge](https://fontforge.org/en-US/) to recreate the font as best I can.
+***
+
+![](Screenshot_2021-04-10_03-30-03.png)
+***
 
 Elian Script is a writing system that promotes creativity when drawing it's characters. It's very quick to pick up and [it's website](https://www.ccelian.com/concepca.html) provides a quick rundown on how it works. It's basically reading a tic-tac-toe board.
 
