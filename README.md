@@ -1,4 +1,4 @@
-# ELECTRIC ELIAN
+# Electric Elian
 An Elian font designed for the digital age.
 
 This font brings the beauty and unique look of [Elian Script](https://www.ccelian.com/concepca.html) to your home microcomputer. Inspiration for this font comes from [this Dwarf Fortress tileset](http://www.bay12forums.com/smf/index.php?topic=169671.0) by Koumakan. The original design for the characters comes from [this reddit post](https://www.reddit.com/r/unixporn/comments/2jqhit/2bwm_riced_the_alphabet/), but the original author has since been banned and the download links have been dead for years. So I have decided to resurrect the font from scratch as best I can.
