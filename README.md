@@ -1,4 +1,4 @@
-A basic yet readable Elian font in bitmap and resizable-truetype formats. Initial design for characters are by Koumakan for their [Dwarf Fortress tileset](http://www.bay12forums.com/smf/index.php?topic=169671.0). I simply used [FontForge](https://fontforge.org/en-US/) to recreate the font as best I can.
+A basic yet readable Elian font in monospaced-bitmap and resizable-truetype formats. Initial design for characters are by Koumakan for their [Dwarf Fortress tileset](http://www.bay12forums.com/smf/index.php?topic=169671.0). I simply used [FontForge](https://fontforge.org/en-US/) to recreate the font as best I can.
 ***
 
 ![](Screenshot_2021-04-10_19-20-15.png)
