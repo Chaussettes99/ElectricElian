@@ -21,3 +21,6 @@ Electric Elian Micro
 ![](EEMicro-example.png)
 ***
 
+## License
+Electric Elian is licensed [MIT](LICENSE)
+Feel free to do whatever you want with it.
