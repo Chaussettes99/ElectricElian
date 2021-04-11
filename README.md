@@ -22,5 +22,6 @@ Electric Elian Micro
 ***
 
 ## License
-Electric Elian is licensed [MIT](LICENSE)
+Electric Elian is licensed [MIT](LICENSE).
+
 Feel free to do whatever you want with it.
